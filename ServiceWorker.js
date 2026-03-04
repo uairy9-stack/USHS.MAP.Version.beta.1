@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-MAP-1.0";
 const contentToCache = [
-    "Build/IMAP.beta.2.loader.js",
-    "Build/IMAP.beta.2.framework.js.unityweb",
-    "Build/IMAP.beta.2.data.unityweb",
-    "Build/IMAP.beta.2.wasm.unityweb",
+    "Build/IMAP.beta.3.loader.js",
+    "Build/IMAP.beta.3.framework.js.unityweb",
+    "Build/IMAP.beta.3.data.unityweb",
+    "Build/IMAP.beta.3.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
